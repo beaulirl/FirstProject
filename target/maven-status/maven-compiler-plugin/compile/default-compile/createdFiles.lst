@@ -1,0 +1,10 @@
+org\FirstProject\example\client\Messages.class
+org\FirstProject\example\client\GreetingServiceAsync$Util.class
+org\FirstProject\example\client\FirstProject$1.class
+org\FirstProject\example\client\FirstProject$1MyHandler.class
+org\FirstProject\example\client\FirstProject.class
+org\FirstProject\example\client\GreetingServiceAsync.class
+org\FirstProject\example\client\GreetingService.class
+org\FirstProject\example\server\GreetingServiceImpl.class
+org\FirstProject\example\client\FirstProject$1MyHandler$1.class
+org\FirstProject\example\shared\FieldVerifier.class
