@@ -1,0 +1,2 @@
+serviceClass: org.FirstProject.example.client.GreetingService
+path: 21A3852010F6C8551418A23D5F114AAA.gwt.rpc
